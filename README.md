@@ -19,11 +19,11 @@ A escolha do time foi realiza após conversa rápida no grupo de alunos e optamo
 
 ## Papéis
 
-|     Papel    |         Integrante          |
-|--------------|-----------------------------|
-|      PO      | Professor Danilo (Gama)     |
-| Scrum Mastar | Hugo Tavares                | 
-|   Team Dev   | Francisco Cruz e  José Alex |
+|     Papel    |                Integrante                |
+|--------------|------------------------------------------|
+|      PO      | Professor Danilo (Gama)                  |
+| Scrum Mastar | Hugo Tavares                             | 
+|   Team Dev   | Hugo Tavares, Francisco Cruz e José Alex |
 
 ## Product Backlog
 
