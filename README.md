@@ -19,18 +19,18 @@ A escolha do time foi realiza após conversa rápida no grupo de alunos e optamo
 
 ## Papéis
 
-PO - Professor Danilo (Gama)
-
-Scrum Mastar - Hugo Tavares
-
-Team Dev - Francisco Cruz e  José Alex 
+|     Papel    |         Integrante          |
+|--------------|-----------------------------|
+|      PO      | Professor Danilo (Gama)     |
+| Scrum Mastar | Hugo Tavares                | 
+|   Team Dev   | Francisco Cruz e  José Alex |
 
 ## Product Backlog
 
 Servidor de Mockup simulando võos disponíveis 
-
-Banco de dados  - > Cliente - > reservas - > TransacaoCompra - > passagens Favoritadas  
-
+'''
+Banco de dados  - > Cliente - > reservas - > TransacaoCompra - > passagens Favoritadas 
+'''
 Cadastro de Usuário	(Login / Logout Detalhar informações pertinentes do voo selecionado Montar página de busca Checkout com meio de pagamento compartilhamento com rede social Adicionar a favoritos.
 
 
